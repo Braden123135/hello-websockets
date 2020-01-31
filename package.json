@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Braden123135/hello-websockets/issues"
   },
-  "homepage": "https://github.com/Braden123135/hello-websockets#readme"
+  "homepage": "https://github.com/Braden123135/hello-websockets#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "url": "^0.11.0",
+    "ws": "^7.2.1"
+  }
 }
